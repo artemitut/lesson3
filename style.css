@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family:monospace;
+    font-size: 20px;}
+    h1{
+    text-align: center;
+    color: rgb(66, 129, 129);}
+img{
+    width: 100px;}
+table, th, td{
+    margin: auto;
+    border: 1px solid black;}
+th, td{
+    width: 200px;
+    height: 60px;}
+td:hover {
+    background-color:black;
+    color:white;}
+td:active{
+    background-color:rgba(5, 0, 0, 0.986);
+    color:rgb(227, 231, 245);}
+    
